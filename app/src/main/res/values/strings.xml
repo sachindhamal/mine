@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Pizza Mania</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="pizzaManiaMain">Pizza Mania</string>
+    <string formatted="false" name="menuActivity">Types of Pizza</string>
+    <string formatted="false" name="neapolitanPizzaActivity">Neapolitan Pizza</string>
+    <string formatted="false" name="chicagoPizzaActivity">Chicago Pizza</string>
+    <string formatted="false" name="newYorkStylePizzaActivity">New York Style Pizza</string>
+    <string formatted="false" name="indianPizzaActivity">Indian Pizza</string>
+</resources>
+
+
